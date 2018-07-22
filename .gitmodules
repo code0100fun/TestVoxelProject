@@ -1,0 +1,3 @@
+[submodule "Plugins/UE4VoxelTerrainEditor"]
+	path = Plugins/UE4VoxelTerrainEditor
+	url = git@github.com:code0100fun/UE4VoxelTerrainEditor.git
